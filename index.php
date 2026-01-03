@@ -1,6 +1,6 @@
 <?php
 // CONEXIÓN
-$conexion = new mysqli("localhost", "root", "", "pasteleria");
+$conexion = new mysqli("sql202.infinityfree.com", "if0_40818078", "destructor0222", "if0_40818078_pasteleria");
 if ($conexion->connect_error) {
     die("Error de conexión");
 }
