@@ -32,7 +32,7 @@ $pedidos = $conexion->query("SELECT * FROM pedidos ORDER BY fecha DESC");
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Pastelería - Pedidos</title>
+    <title>Pastelería - Pedidos ggg</title>
     <style>
         body { font-family: Arial; background:#f7f7f7; padding:20px; }
         table { border-collapse: collapse; width:100%; background:white; }
